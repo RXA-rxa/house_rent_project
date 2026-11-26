@@ -1,0 +1,21 @@
+# Jupyter 笔记本检查点
+.ipynb_checkpoints/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 系统与编辑器文件
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Spark 本地临时文件
+spark-warehouse/
